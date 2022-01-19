@@ -1,6 +1,6 @@
 ### Hi there, I'm Madusanka   👋 
 
-[![Twitter Follow](https://img.shields.io/twitter/follow/codeSTACKr?color=1DA1F2&logo=twitter&style=for-the-badge)](https://twitter.com/mbabeykoon)
+
 
 ## I'm a Husband, Father, Student, and Teacher!!
 
