@@ -2,7 +2,7 @@
 
 
 
-## I'm a Husband, Father, Student, and Teacher!!
+## I'm a  Student,Teacher,Physicist, and  Researcher!! 
 
 - 🌱 I’m currently learning everything 
 - 👀 I’m interested in exploring patterns in data
