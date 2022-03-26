@@ -7,7 +7,7 @@
 - 🌱 I’m currently learning everything 
 - 👀 I’m interested in exploring patterns in data
 - 👯 I’m looking to collaborate with other Data Scientists
-- 🥅 2020 Goals: Become a Data Scientist
+- 🥅 2022 Goals: Become a Data Scientist
 - ⚡ Fun fact: I love to play tennis
 
 ### Connect with me:
