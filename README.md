@@ -34,4 +34,4 @@
 
 
 [twitter]: https://twitter.com/mbabeykoon
-[linkedin]: https://www.linkedin.com/in/madusanka-madiligama-067712116/
+[linkedin]: https://www.linkedin.com/in/mbabeykoon/
