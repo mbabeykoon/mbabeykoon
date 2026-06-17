@@ -1,64 +1,104 @@
-## Hi there, I'm Madusanka   👋 
+# Hi, I'm Madusanka 👋
 
+**Ph.D. Data Scientist | Machine Learning, NLP, Scientific Computing, and Applied Analytics**
 
-I'm a lifelong learner and explorer at the intersection of education, physics, and research. Here's a bit more about me:
+I build reproducible data science and machine learning workflows that turn complex, messy data into interpretable models, research insights, and decision-ready tools.
 
-- 🌱 **Currently Learning:** I'm constantly learning, diving into new technologies, concepts, and challenges.
-
-- 👀 **Interests:** Passionate about unraveling complex patterns in data. I find joy in turning data into meaningful insights.
-
-- 👯 **Collaboration:** Eager to connect with fellow Data Scientists. I believe in the power of teamwork and shared knowledge.
-
-- 🥅 **2024 Goals:** Transitioning into Data Science. I aim to blend my background in physics and research with modern data analysis techniques.
-
-- ⚡ **Fun Fact:** When I'm not crunching numbers or hypothesizing about the universe, you can find me on the tennis court!
----
-## Let's Connect and Collaborate
-Please feel free to contact me if you're interested in data science, physics, or education or want to have an interesting conversation about the mysteries of the universe. Let's make 2024 a year of learning and growth together!
+My background combines **physics, statistical modeling, machine learning, natural language processing, scientific computing, and applied research**. I am especially interested in building data systems that connect rigorous analysis with real-world impact.
 
 ---
 
-*“In God we trust, all others must bring data.” – W. Edwards Deming*
+## What I Work On
+
+- **Machine Learning:** regression, classification, model evaluation, feature engineering, error analysis
+- **Natural Language Processing:** embeddings, information retrieval, document analysis, legal/policy text mining
+- **Healthcare Analytics:** cohort construction, survival analysis, statistical modeling, health disparities
+- **Scientific ML:** environmental data, ocean acoustics, geospatial and spatiotemporal modeling
+- **MLOps & Reproducibility:** Git, testing, Docker, CI/CD, experiment tracking, production-ready project structure
 
 ---
 
+## Featured Projects
 
-
-### Languages and Tools:
-
-<p align="left">
-  <!-- Visual Studio Code -->
-  <a href="https://code.visualstudio.com/">
-    <img alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
-  </a>
-  <!-- SQL -->
-  <a href="https://www.microsoft.com/en-us/sql-server/sql-server-2019">
-    <img alt="SQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sql/sql.png" />
-  </a>
-  <!-- MySQL -->
-  <a href="https://www.mysql.com/">
-    <img alt="MySQL" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/mysql/mysql.png" />
-  </a>
-  <!-- Git -->
-  <a href="https://git-scm.com/">
-    <img alt="Git" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/git/git.png" />
-  </a>
-  <!-- GitHub -->
-  <a href="https://github.com/">
-    <img alt="GitHub" width="26px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
-  </a>
-</p>
+| Project | What It Demonstrates | Stack |
+|---|---|---|
+| **Authority-Aware Legal Retrieval** | NLP retrieval system for heterogeneous legal/policy documents; passage generation, metadata labeling, hard-negative evaluation | Python, Sentence Transformers, FAISS, pandas, FastAPI |
+| **Healthcare Survival Analytics** | Time-to-event analysis, Kaplan-Meier curves, Cox regression, cohort construction, interpretable statistical modeling | Python, pandas, statsmodels/lifelines, matplotlib |
+| **Ocean Sound Speed Machine Learning** | Scientific ML workflow for estimating underwater sound speed using oceanographic predictors | Python, scikit-learn, TensorFlow, xarray, NumPy |
+| **Production ML API Template** | End-to-end ML project with API deployment, Docker, testing, and GitHub Actions | FastAPI, Docker, pytest, GitHub Actions |
+| **SQL Analytics Case Studies** | Business analytics using joins, CTEs, window functions, cohort analysis, and reporting | SQL, DuckDB/PostgreSQL, pandas |
 
 ---
 
-<!-- Social Media Links -->
-### Connect with me:
-<p align="left">
-  <a href="https://twitter.com/mbabeykoon">
-    <img alt="Twitter" width="26px" src="https://raw.githubusercontent.com/github/explore/281587c73f2a2a0a6d23dcbcd24e7fb2c0156666/topics/twitter/twitter.png" />
-  </a>
-  <a href="https://www.linkedin.com/in/mbabeykoon/">
-    <img alt="LinkedIn" width="26px" src="https://raw.githubusercontent.com/github/explore/7107b597949a3b5c23c7a8b9e9c830ce7cb7b912/topics/linkedin/linkedin.png" />
-  </a>
-</p>
+## Technical Stack
 
+**Languages:** Python, SQL, R
+
+**Data Science & ML:** pandas, NumPy, scikit-learn, TensorFlow, PyTorch, statsmodels
+
+**NLP & AI:** Sentence Transformers, embeddings, information retrieval, text classification, document analysis
+
+**Data Visualization:** matplotlib, Plotly, Streamlit
+
+**MLOps & Engineering:** Git, GitHub Actions, Docker, pytest, Ruff, FastAPI, MLflow
+
+**Scientific Computing:** xarray, NetCDF, geospatial/spatiotemporal data workflows
+
+---
+
+## Research and Applied Experience
+
+- Ph.D.-level quantitative research background in physics and scientific computing
+- First-author publication applying machine learning to underwater sound speed estimation
+- Experience with large-scale environmental, healthcare, and document-based datasets
+- Applied work in data analysis, machine learning, NLP, and research software development
+- Active interest in building production-ready data science systems that are reproducible, interpretable, and useful
+
+---
+
+## Current Focus
+
+I am currently building a professional data science portfolio focused on:
+
+1. **Applied machine learning projects with clean evaluation**
+2. **NLP and retrieval systems for real document collections**
+3. **Healthcare and scientific analytics workflows**
+4. **Production-ready Python repositories with testing, documentation, and CI/CD**
+
+---
+
+## How I Approach Data Science
+
+I care about more than model accuracy. A strong data science project should answer:
+
+- What real problem does this solve?
+- Is the data trustworthy?
+- Are the assumptions clear?
+- Is the evaluation meaningful?
+- Can another person reproduce the result?
+- Can the work support a real decision?
+
+---
+
+## Selected Areas of Interest
+
+- Applied Data Science
+- Machine Learning Engineering
+- Natural Language Processing
+- Retrieval-Augmented Generation
+- Legal and Policy Document AI
+- Healthcare Analytics
+- Scientific Machine Learning
+- Reproducible Research
+
+---
+
+## Connect
+
+- LinkedIn: [linkedin.com/in/mbabeykoon](https://www.linkedin.com/in/mbabeykoon/)
+- GitHub: [github.com/mbabeykoon](https://github.com/mbabeykoon)
+- Twitter/X: [twitter.com/mbabeykoon](https://twitter.com/mbabeykoon)
+
+---
+
+> “In God we trust, all others must bring data.” — W. Edwards Deming
