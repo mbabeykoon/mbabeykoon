@@ -1,6 +1,6 @@
 # Hi, I'm Madusanka 👋
 
-**Ph.D. Data Scientist | Machine Learning, NLP, Scientific Computing, and Applied Analytics**
+**Ph.D. in Physics, Data Scientist, Machine Learning, NLP, Scientific Computing, and Applied Analytics**
 
 I build reproducible data science and machine learning workflows that turn complex, messy data into interpretable models, research insights, and decision-ready tools.
 
